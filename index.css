@@ -434,13 +434,13 @@ footer {
 }
 
 .contact-form {
-    max-width: 700px;
+    max-width: 500px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 20px;
     background: #ffffff;
-    padding: 30px;
+    padding: 80px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     border: 2px solid #3e8e41;
@@ -457,8 +457,8 @@ footer {
 .contact-form input,
 .contact-form textarea,
 .contact-form select {
-    padding: 12px;
-    border-radius: 8px;
+    padding: 10px;
+    border-radius: 50px;
     border: 1px solid #3e8e41;
     background: #e6f7e6;
     color: #2e4f2d;
